@@ -34,3 +34,5 @@ pm2 restart uptime-kuma
 ```
 
 - then access uptime kuma on http://localhost:3001
+- on the browser, create your admin login details, then set up monitoring for your websites
+- you can also set up alerting and notification with platform of your choice e.g slack
